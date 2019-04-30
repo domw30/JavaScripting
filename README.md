@@ -34,9 +34,7 @@ Open your terminal and run the following command:
 javascripting
 ```
 
-You'll see the menu:
-
-![javascripting screenshot](screenshot.png)
+You'll see the menu.
 
 Navigate the menu with the up & down arrow keys.
 
